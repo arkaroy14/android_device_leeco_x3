@@ -1,7 +1,7 @@
-# LeEco Le 1s (x3) - Dirty Unicorns
+# LeEco Le 1s (x3) - LineageOS 14.1
 ==============
 
-This branch is device tree for building Dirty Unicorns Rom for Leeco 1S(eco).
+This branch is device tree for building LineageOS 14.1 Rom for Leeco 1S(eco).
 
 ---
 
@@ -9,7 +9,5 @@ This branch is device tree for building Dirty Unicorns Rom for Leeco 1S(eco).
 
 ## Broken/Bugs
 * Camera
-* Hotspot
-* inbuilt Screen Recorder
-* RED border flashes on hikes in CPU usage.
-* ???
+* Flashlight
+* ?????
