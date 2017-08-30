@@ -194,4 +194,4 @@ BOARD_GREEN_LED_PATH := "/sys/class/leds/green"
 BOARD_BLUE_LED_PATH := "/sys/class/leds/blue"
 
 # Tethering
-PRODUCT_PROPERTY_OVERRIDES += net.tethering.noprovisioning=true
+#PRODUCT_PROPERTY_OVERRIDES += net.tethering.noprovisioning=true
